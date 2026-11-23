@@ -1,8 +1,32 @@
+<div align="center">
+  <img src="banner.png" alt="Smart Hydro — Eficiencia y sustentabilidad" width="820">
+</div>
+
+<br>
+
 # SmartHydro
 
-Telemetría de agua y monitoreo para cumplimiento DGA en Chile.
+Telemetría de agua y monitoreo para cumplimiento DGA en Chile. Empresa B.
+
+[smarthydro.cl](https://smarthydro.cl)
+
+<p>
+  <img src="https://img.shields.io/badge/Telemetría-203562?style=flat-square" alt="Telemetría">
+  <img src="https://img.shields.io/badge/Monitoreo_DGA-203562?style=flat-square" alt="Monitoreo DGA">
+  <img src="https://img.shields.io/badge/Chile-CCCF07?style=flat-square&labelColor=203562&color=CCCF07" alt="Chile">
+</p>
 
 Los repositorios de producto de la empresa viven en esta organización.
+
+## Marca
+
+Paleta tomada de los tokens oficiales (`smarthydro.tokens.js` en `ui_ikolu`, extraídos de [smarthydro.cl](https://smarthydro.cl)):
+
+| Color | Hex | Uso |
+|---|---|---|
+| Azul corporativo | `#203562` | Principal, encabezados, fondo de marca |
+| Lima / acento | `#CCCF07` | Acento y destacados |
+| Azul medio | `#3A68AA` | Apoyo |
 
 ## Productos
 
@@ -14,4 +38,13 @@ Los repositorios de producto de la empresa viven en esta organización.
 
 ## Stack
 
-Python y Django, TypeScript y React, Flutter, Tauri, Docker y Nginx.
+<p>
+  <img src="https://img.shields.io/badge/Python-203562?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-203562?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/TypeScript-203562?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-203562?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Flutter-203562?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Tauri-203562?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
+  <img src="https://img.shields.io/badge/Docker-203562?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Nginx-203562?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+</p>
