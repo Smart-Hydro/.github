@@ -6,13 +6,14 @@
 
 # SmartHydro
 
-Telemetría de agua y monitoreo para cumplimiento DGA en Chile. Empresa B.
+Telemetría de agua y monitoreo en Chile. Gestiona el cumplimiento de la normativa ante diferentes entidades, entre ellas la DGA y la SMA (Superintendencia del Medio Ambiente). Empresa B.
 
 [smarthydro.cl](https://smarthydro.cl)
 
 <p>
   <img src="https://img.shields.io/badge/Telemetría-203562?style=flat-square" alt="Telemetría">
-  <img src="https://img.shields.io/badge/Monitoreo_DGA-203562?style=flat-square" alt="Monitoreo DGA">
+  <img src="https://img.shields.io/badge/Cumplimiento_normativo-203562?style=flat-square" alt="Cumplimiento normativo">
+  <img src="https://img.shields.io/badge/DGA_y_SMA-203562?style=flat-square" alt="DGA y SMA">
   <img src="https://img.shields.io/badge/Chile-CCCF07?style=flat-square&labelColor=203562&color=CCCF07" alt="Chile">
 </p>
 
@@ -30,7 +31,7 @@ Paleta tomada de los tokens oficiales (`smarthydro.tokens.js` en `ui_ikolu`, ext
 
 ## Productos
 
-- **Ikolu** — ERP de operación: tickets, SLA, órdenes de trabajo y compliance DGA (`ikolu3`, `ui_ikolu`)
+- **Ikolu** — ERP de operación: tickets, SLA, órdenes de trabajo y cumplimiento normativo ante entidades como la DGA y la SMA (`ikolu3`, `ui_ikolu`)
 - **Nereus** — app nativa en Flutter y API de telemetría + ERP (`nereus_app`, `nereus_api`)
 - **API de telemetría** — API de gestión de telemetría y clientes (`api`, `core_api_sh`, `api_telemetry_smarthydro`)
 - **App de monitoreo** — app Flutter para Android y web/PWA (`smarthydro_app`)
