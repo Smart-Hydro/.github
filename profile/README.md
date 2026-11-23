@@ -6,7 +6,7 @@
 
 # SmartHydro
 
-Telemetría de agua y monitoreo en Chile. Gestiona el cumplimiento de la normativa ante diferentes entidades, entre ellas la DGA y la SMA (Superintendencia del Medio Ambiente). Empresa B.
+Startup chilena de telemetría de agua, líder por la vanguardia técnica de su producto: telemetría IoT, IA aplicada y la gestión del cumplimiento normativo ante distintas entidades, entre ellas la DGA y la SMA (Superintendencia del Medio Ambiente). Empresa B.
 
 [smarthydro.cl](https://smarthydro.cl)
 
