@@ -1,51 +1,69 @@
 <div align="center">
-  <img src="banner.png" alt="Smart Hydro — Eficiencia y sustentabilidad" width="820">
+  <img src="banner.png" alt="SmartHydro — Eficiencia y sustentabilidad. Empresa B Certificada" width="820">
+
+  <h1>SmartHydro</h1>
+
+  <p><strong>Monitoreo, telemetría y cumplimiento normativo para la gestión inteligente del agua</strong></p>
 </div>
 
 <br>
 
-# SmartHydro
+<div align="center">
+  <a href="https://github.com/Smart-Hydro/.github/blob/main/profile/SmartHydro_Portafolio_de_Software.pdf">
+    <img src="assets/cover.jpg" alt="Portafolio de software SmartHydro, plataforma propia 2021–2026" width="820">
+  </a>
+</div>
 
-Startup chilena de telemetría de agua, líder por la vanguardia técnica de su producto: telemetría IoT, IA aplicada y la gestión del cumplimiento normativo ante distintas entidades, entre ellas la DGA y la SMA (Superintendencia del Medio Ambiente). Empresa B.
+## Qué hacemos
 
-[smarthydro.cl](https://smarthydro.cl)
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Telemetría-203562?style=flat-square" alt="Telemetría">
-  <img src="https://img.shields.io/badge/Cumplimiento_normativo-203562?style=flat-square" alt="Cumplimiento normativo">
-  <img src="https://img.shields.io/badge/DGA_y_SMA-203562?style=flat-square" alt="DGA y SMA">
-  <img src="https://img.shields.io/badge/Chile-CCCF07?style=flat-square&labelColor=203562&color=CCCF07" alt="Chile">
-</p>
+**Monitoreo en tiempo real** &nbsp;·&nbsp; **Cumplimiento DGA y SMA** &nbsp;·&nbsp; **Alertas y reportes** &nbsp;·&nbsp; **Operación y servicio**
 
-Los repositorios de producto de la empresa viven en esta organización.
+</div>
 
-## Marca
+## Del sensor a la decisión
 
-Paleta tomada de los tokens oficiales (`smarthydro.tokens.js` en `ui_ikolu`, extraídos de [smarthydro.cl](https://smarthydro.cl)):
+Una plataforma propia, de punta a punta.
 
-| Color | Hex | Uso |
-|---|---|---|
-| Azul corporativo | `#203562` | Principal, encabezados, fondo de marca |
-| Lima / acento | `#CCCF07` | Acento y destacados |
-| Azul medio | `#3A68AA` | Apoyo |
+<div align="center">
+  <img src="assets/arquitectura.jpg" alt="Del sensor a la decisión: sensores en terreno, plataforma de datos, y aplicaciones para clientes y operación" width="820">
+</div>
 
 ## Productos
 
-- **Ikolu** — ERP de operación: tickets, SLA, órdenes de trabajo y cumplimiento normativo ante entidades como la DGA y la SMA (`ikolu3`, `ui_ikolu`)
-- **Nereus** — app nativa en Flutter y API de telemetría + ERP (`nereus_app`, `nereus_api`)
-- **API de telemetría** — API de gestión de telemetría y clientes (`api`, `core_api_sh`, `api_telemetry_smarthydro`)
-- **App de monitoreo** — app Flutter para Android y web/PWA (`smarthydro_app`)
-- **Agentes** — agentes de IA para la operación (Njord, Mimir, Ran, Kolga), consola de escritorio y el agente N1 de Google Chat (`smarthydro_agents`, `agent_console`, `agent_desktop`, `smarthydro-n1`)
+| Producto | Propósito |
+|---|---|
+| **Core API** | Datos, reportes y la base de la plataforma. |
+| **Nereus** | Plataforma integrada de telemetría y operación. |
+| **Ikolu** | Monitoreo web y cumplimiento normativo. |
+| **SmartHydro App** | Monitoreo móvil de captaciones y alertas. |
+| **Strøm** | Operación e instalaciones en terreno. |
+| **Kilde** | Gestión comercial de ventas y clientes. |
+| **N1** | Asistente de soporte. |
 
-## Stack
+## Nuestra historia
 
-<p>
-  <img src="https://img.shields.io/badge/Python-203562?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-203562?style=flat-square&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/TypeScript-203562?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-203562?style=flat-square&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Flutter-203562?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Tauri-203562?style=flat-square&logo=tauri&logoColor=white" alt="Tauri">
-  <img src="https://img.shields.io/badge/Docker-203562?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Nginx-203562?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
-</p>
+Desde 2021, de las primeras aplicaciones a una plataforma integrada.
+
+<div align="center">
+  <img src="assets/timeline.jpg" alt="Línea de tiempo del software de SmartHydro, de 2021 a 2026" width="820">
+</div>
+
+## Calidad
+
+Desde 2021: **2.634** cambios versionados, **186** pull requests revisados y **1.237** ejecuciones de CI/CD.
+
+<div align="center">
+  <img src="assets/calidad.jpg" alt="Calidad en cada cambio: revisión, pruebas automáticas y despliegue continuo" width="820">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Smart-Hydro/.github/blob/main/profile/SmartHydro_Portafolio_de_Software.pdf">
+    <img src="assets/boton-portafolio.png" alt="Ver portafolio de software" width="520">
+  </a>
+
+  <p><a href="https://smarthydro.cl">smarthydro.cl</a></p>
+</div>
